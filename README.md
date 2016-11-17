@@ -1,7 +1,7 @@
 ## Solidot+
 
 一个Solidot.org的Android app
-(Android大作业..过程没就传了,界面倒是挺简约但是功能很白..应付个大作业够了)
+(Commit过程没就传了,界面倒是挺简约但是功能很白..)
 
 * * *
 
